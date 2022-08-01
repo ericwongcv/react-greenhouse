@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/greenhouse/static/css/main.aae9056c.chunk.css",
-    "main.js": "/greenhouse/static/js/main.eedf0a2a.chunk.js",
-    "main.js.map": "/greenhouse/static/js/main.eedf0a2a.chunk.js.map",
-    "runtime-main.js": "/greenhouse/static/js/runtime-main.99103cc0.js",
-    "runtime-main.js.map": "/greenhouse/static/js/runtime-main.99103cc0.js.map",
-    "static/js/2.adf47ac2.chunk.js": "/greenhouse/static/js/2.adf47ac2.chunk.js",
-    "static/js/2.adf47ac2.chunk.js.map": "/greenhouse/static/js/2.adf47ac2.chunk.js.map",
-    "index.html": "/greenhouse/index.html",
-    "static/css/main.aae9056c.chunk.css.map": "/greenhouse/static/css/main.aae9056c.chunk.css.map",
-    "static/js/2.adf47ac2.chunk.js.LICENSE.txt": "/greenhouse/static/js/2.adf47ac2.chunk.js.LICENSE.txt",
-    "static/media/greenhouse-day.def73286.jpg": "/greenhouse/static/media/greenhouse-day.def73286.jpg",
-    "static/media/greenhouse-night.4fe2c013.jpg": "/greenhouse/static/media/greenhouse-night.4fe2c013.jpg"
+    "main.css": "/react-greenhouse/static/css/main.aae9056c.chunk.css",
+    "main.js": "/react-greenhouse/static/js/main.eedf0a2a.chunk.js",
+    "main.js.map": "/react-greenhouse/static/js/main.eedf0a2a.chunk.js.map",
+    "runtime-main.js": "/react-greenhouse/static/js/runtime-main.af3297ab.js",
+    "runtime-main.js.map": "/react-greenhouse/static/js/runtime-main.af3297ab.js.map",
+    "static/js/2.adf47ac2.chunk.js": "/react-greenhouse/static/js/2.adf47ac2.chunk.js",
+    "static/js/2.adf47ac2.chunk.js.map": "/react-greenhouse/static/js/2.adf47ac2.chunk.js.map",
+    "index.html": "/react-greenhouse/index.html",
+    "static/css/main.aae9056c.chunk.css.map": "/react-greenhouse/static/css/main.aae9056c.chunk.css.map",
+    "static/js/2.adf47ac2.chunk.js.LICENSE.txt": "/react-greenhouse/static/js/2.adf47ac2.chunk.js.LICENSE.txt",
+    "static/media/greenhouse-day.def73286.jpg": "/react-greenhouse/static/media/greenhouse-day.def73286.jpg",
+    "static/media/greenhouse-night.4fe2c013.jpg": "/react-greenhouse/static/media/greenhouse-night.4fe2c013.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.99103cc0.js",
+    "static/js/runtime-main.af3297ab.js",
     "static/js/2.adf47ac2.chunk.js",
     "static/css/main.aae9056c.chunk.css",
     "static/js/main.eedf0a2a.chunk.js"
